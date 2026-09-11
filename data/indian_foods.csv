@@ -1,0 +1,36 @@
+name,serving_size,calories,protein_g,carbs_g,fat_g,fiber_g,diet_type,allergens,cuisine
+Roti (Whole Wheat Chapati),1 piece (35g),85,3.0,17.0,0.5,2.0,vegan,gluten,indian
+Paratha (Plain Ghee),1 piece (50g),180,3.5,24.0,8.0,2.2,vegetarian,gluten|dairy,indian
+Dal Tadka,1 bowl (200g),180,10.0,28.0,4.5,5.0,vegan,none,indian
+Dal Makhani,1 bowl (200g),280,11.0,30.0,14.0,6.0,vegetarian,dairy,indian
+Rajma (Kidney Bean Curry),1 bowl (200g),230,12.0,36.0,4.0,8.5,vegan,none,indian
+Chole (Chickpea Curry),1 bowl (200g),250,11.5,38.0,6.5,7.5,vegan,none,indian
+Paneer Tikka,6 pieces (150g),260,18.0,6.0,19.0,1.5,vegetarian,dairy,indian
+Paneer Bhurji,1 bowl (150g),270,16.0,5.0,21.0,1.0,vegetarian,dairy,indian
+Palak Paneer,1 bowl (200g),240,14.0,8.0,17.0,4.0,vegetarian,dairy,indian
+Aloo Gobi,1 bowl (180g),160,3.5,22.0,7.0,4.5,vegan,none,indian
+Bhindi Masala (Okra),1 bowl (150g),130,2.8,15.0,6.5,5.0,vegan,none,indian
+Mix Vegetable Sabzi,1 bowl (180g),140,3.2,18.0,6.0,4.8,vegan,none,indian
+Curd (Dahi / Homemade),1 bowl (150g),90,5.0,6.0,5.0,0.0,vegetarian,dairy,indian
+Masala Buttermilk (Chaas),1 glass (250ml),45,2.5,3.5,1.8,0.0,vegetarian,dairy,indian
+Vegetable Biryani,1 plate (250g),340,7.0,54.0,11.0,4.5,vegetarian,dairy,indian
+Chicken Biryani,1 plate (280g),420,26.0,52.0,13.0,3.0,non-vegetarian,dairy,indian
+Egg Curry (2 eggs),1 bowl (220g),260,14.0,9.0,18.0,2.0,eggitarian,egg,indian
+Tandoori Chicken (1 leg quarter),1 piece (180g),260,32.0,3.0,13.0,0.5,non-vegetarian,dairy,indian
+Fish Curry (Rohu/Surmai),1 bowl (200g),220,22.0,5.0,12.0,1.0,non-vegetarian,fish,indian
+Poha (Flattened Rice with Peanuts),1 plate (150g),220,4.5,38.0,6.0,2.5,vegan,peanuts,indian
+Upma (Semolina with Veggies),1 plate (150g),210,5.0,35.0,6.0,3.0,vegan,gluten,indian
+Idli (Steamed Rice Cakes),2 pieces (80g),130,3.5,28.0,0.4,1.5,vegan,none,indian
+Sambar,1 bowl (180g),110,4.5,19.0,2.5,4.0,vegan,none,indian
+Moong Dal Khichdi,1 plate (200g),230,8.5,42.0,4.0,4.5,vegetarian,dairy,indian
+Besan Chilla (Gram Flour Pancake),2 pieces (120g),220,11.0,28.0,7.0,5.5,vegan,none,indian
+Sprouted Moong Salad,1 bowl (150g),150,11.0,24.0,1.5,6.0,vegan,none,indian
+Soybean Chunk Curry,1 bowl (180g),220,22.0,14.0,8.0,6.0,vegan,soy,indian
+Lassi (Sweet),1 glass (250ml),210,6.0,32.0,7.0,0.0,vegetarian,dairy,indian
+Gulab Jamun,1 piece (45g),150,2.0,24.0,6.0,0.5,vegetarian,dairy|gluten,indian
+Kheer (Rice Pudding),1 small bowl (100g),180,4.5,26.0,7.0,0.5,vegetarian,dairy,indian
+Paneer Butter Masala (Paneer Makhani),1 bowl (200g),320,14.0,12.0,24.0,2.0,vegetarian,dairy,indian
+Shahi Paneer,1 bowl (200g),310,13.0,13.0,23.0,1.8,vegetarian,dairy|tree nuts,indian
+Kadai Paneer,1 bowl (200g),290,15.0,11.0,21.0,3.0,vegetarian,dairy,indian
+Matar Paneer,1 bowl (200g),260,13.0,15.0,17.0,3.5,vegetarian,dairy,indian
+Butter Chicken (Murgh Makhani),1 bowl (220g),380,30.0,9.0,24.0,1.5,non-vegetarian,dairy,indian
